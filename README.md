@@ -309,11 +309,3 @@ Technically, I always wrap critical Navisworks API calls in **`try-catch`** bloc
 For our non-technical team, this means our integration solutions are **designed for stability and continuous operation**, even with large and complex Navisworks models. If an issue arises with extracting data from an aggregated model, the system won't crash. Instead, it will gracefully handle the error, provide clear feedback, and ensure that our data quality for AEP is maintained. This proactive error management ensures reliability and trust in the project and asset insights derived from Navisworks data."
 
 ---
-
-I'm truly excited by the prospect of applying these skills and contributing to the success of your team at AEP. This guide represents my commitment to not only deliver robust technical solutions but also to foster clear communication and understanding across all stakeholders.
-
-Thank you again for your time and consideration.
-
-Best regards,
-
-Thomas Smith
